@@ -1,0 +1,1 @@
+console.log("MediBot site loaded!");
